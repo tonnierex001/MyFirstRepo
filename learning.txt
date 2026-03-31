@@ -1,3 +1,5 @@
+What I have learned from this course
+
 In this course, I’ve learned how developers use Git and GitHub to manage and track changes in their projects in a structured and efficient way. I now understand how to clone repositories, create and edit files locally, stage changes, commit them with clear messages, and push updates back to GitHub.
 I’ve also learned the importance of maintaining a clean workflow, as it makes collaboration easier and helps prevent errors or loss of work.
 This experience has shown me that software development is not just about writing code, but also about organizing, documenting, and managing changes effectively over time.
